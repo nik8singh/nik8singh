@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack Web Development; Professional QA; Always Learning;)](https://git.io/typing-svg)
 
 <!--
 **nik8singh/nik8singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
