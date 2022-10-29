@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B807F7&center=true&width=435&lines=Full-Stack+Web+Development;Professional+QA;Always+Learning" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B807F7&center=true&width=435&lines=Quality Analyst;Full-Stack+Web+Development;Always+Learning" alt="Typing SVG" /></a>
 
 <!--
 **nik8singh/nik8singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
